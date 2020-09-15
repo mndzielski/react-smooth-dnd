@@ -1,6 +1,6 @@
 {
   "name": "@mndzielski/react-smooth-dnd",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "description": "Drag and Drop library",
   "main": "./dist/index.js",
   "scripts": {
