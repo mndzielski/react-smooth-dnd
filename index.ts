@@ -1,7 +1,7 @@
 import Container from './src/Container';
 import Draggable from './src/Draggable';
 
-export * from 'smooth-dnd';
+export * from '@mndzielski/smooth-dnd';
 
 export {
   Container,
